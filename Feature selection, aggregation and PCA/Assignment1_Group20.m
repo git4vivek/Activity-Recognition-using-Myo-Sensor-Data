@@ -18,6 +18,7 @@ for i=1:length(files)
 %         filename = strcat('C:\Users\Vivek Agarwal\Desktop\DM_A1\',files(i).name);
         cd (filename);
         subfiles = dir('*.csv'); % reading all CSV files for each activity
+        for k = 1:length(subfiles)
             j=j+1;
             A11=[];
             
