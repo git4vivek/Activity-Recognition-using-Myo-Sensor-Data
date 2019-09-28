@@ -3,4 +3,4 @@ Put .m file in the same directory. e.g: In the directory we have .m file, Cookin
 Open .m file in matlab and execute
 Folders - Plots_Features_Selection, PCA_Activity1, PCA_Activity2, Plots_after_PCA will have saved images from the matlab code to view results.
 
-Our code has comments and our reports is quite explainatory.
+Our code has comments and our reports is quite explanatory.
